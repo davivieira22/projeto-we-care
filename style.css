@@ -38,7 +38,6 @@ header {
     cursor: pointer;
 }
 
-
 h1 {
     font-weight: 900;
     font-size: 100px;
@@ -48,7 +47,7 @@ h1 {
 
 h2 {
     font-weight: 500;
-    font-size: 58px;
+    font-size: 70px;
     line-height: 70.7px;
     color: rgba(81, 81, 81, 1);
 
